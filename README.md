@@ -19,6 +19,9 @@ The app implements a **Cache-First / Offline-First** repository policy:
 ---
 
 ## 🔒 Security
+- **Test Credentials**:
+  - **Email**: `test@test.com`
+  - **Password**: `123456`
 - **Authentication**: User credentials are validated using secure input transformations. Secrets/tokens are kept out of shared preferences.
 - **Local Database**: Room DB access is encapsulated within repository boundaries. For production, **SQLCipher** can be plugged in for database encryption at rest.
 - **Network**: Uses `OkHttp Logging Interceptor` configured strictly for debug builds, enforcing TLS/HTTPS certificates for network traffic.
