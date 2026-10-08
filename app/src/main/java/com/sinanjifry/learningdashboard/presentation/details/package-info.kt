@@ -1,0 +1,1 @@
+package com.sinanjifry.learningdashboard.presentation.details

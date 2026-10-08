@@ -1,0 +1,77 @@
+[
+  {
+    "id": "c1",
+    "title": "Android Jetpack Compose Masterclass",
+    "instructor": "Philipp Lackner",
+    "lessons": [
+      {
+        "id": "l101",
+        "courseId": "c1",
+        "title": "Introduction to Compose & Layouts",
+        "isCompleted": true
+      },
+      {
+        "id": "l102",
+        "courseId": "c1",
+        "title": "State Management & Recomposition",
+        "isCompleted": false
+      },
+      {
+        "id": "l103",
+        "courseId": "c1",
+        "title": "Navigation Compose & Architecture",
+        "isCompleted": false
+      }
+    ]
+  },
+  {
+    "id": "c2",
+    "title": "Kotlin Coroutines & Flow Deep Dive",
+    "instructor": "Roman Elizarov",
+    "lessons": [
+      {
+        "id": "l201",
+        "courseId": "c2",
+        "title": "Coroutines Basics & Builders",
+        "isCompleted": true
+      },
+      {
+        "id": "l202",
+        "courseId": "c2",
+        "title": "Flows, StateFlow & SharedFlow",
+        "isCompleted": true
+      }
+    ]
+  },
+  {
+    "id": "c3",
+    "title": "Clean Architecture & Room Database",
+    "instructor": "Florina Muntenescu",
+    "lessons": [
+      {
+        "id": "l301",
+        "courseId": "c3",
+        "title": "Room Database Entities & DAOs",
+        "isCompleted": false
+      },
+      {
+        "id": "l302",
+        "courseId": "c3",
+        "title": "Repository Pattern & Data Caching",
+        "isCompleted": false
+      },
+      {
+        "id": "l303",
+        "courseId": "c3",
+        "title": "Testing Repositories & ViewModels",
+        "isCompleted": false
+      },
+      {
+        "id": "l304",
+        "courseId": "c3",
+        "title": "Dependency Injection with Hilt/Koin",
+        "isCompleted": false
+      }
+    ]
+  }
+]
